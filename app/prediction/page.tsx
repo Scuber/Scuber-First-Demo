@@ -1,7 +1,7 @@
 'use client'
 
 import { Ubuntu } from "next/font/google";
-import styles from './page.module.css';
+import styles from './prediction.module.css';
 import Button from "../components/button";
 import { useState, useEffect } from "react";
 import axios from "axios";
